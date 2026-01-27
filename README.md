@@ -1,4 +1,4 @@
-# Diamonds_price_prediction
+# Diamonds_price_prediction_eda
 
 
 
